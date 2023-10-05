@@ -2,6 +2,10 @@
 
 This is a simple web application built using Next.js. It allows user to create, edit, delete and view issues.
 
+# Deployed on Vercel
+
+[https://sitemate-challenge.vercel.app/](https://sitemate-challenge.vercel.app/)
+
 
 ## Getting Started
 
